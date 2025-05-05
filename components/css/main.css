@@ -285,3 +285,11 @@ header {
   color: var(--main-color) !important;
   border: solid 1px var(--main-color);
 }
+
+.carousel-indicators .active{
+    background-color: var(--main-color) !important;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    font-weight: 800;
+ 
+}
